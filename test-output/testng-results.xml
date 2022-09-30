@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42940" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:57 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42940" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:57 IST">
+      <class name="com.ciklum.testcases.TC003_IndustryWeserveTest">
+        <test-method status="PASS" signature="getDataProductEngineering()[pri:0, instance:com.ciklum.testcases.TC003_IndustryWeserveTest@71d15f18]" name="getDataProductEngineering" is-config="true" duration-ms="0" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataProductEngineering -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.ciklum.testcases.TC003_IndustryWeserveTest@71d15f18]" name="report" is-config="true" duration-ms="0" started-at="2022-08-27T10:00:42 IST" finished-at="2022-08-27T10:00:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ciklum.testcases.TC003_IndustryWeserveTest@71d15f18]" name="beforeMethod" is-config="true" duration-ms="5436" started-at="2022-08-27T10:00:42 IST" finished-at="2022-08-27T10:00:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="productEngineeringTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ciklum.testcases.TC003_IndustryWeserveTest@71d15f18]" name="productEngineeringTest" duration-ms="9043" started-at="2022-08-27T10:00:48 IST" data-provider="fetchData" finished-at="2022-08-27T10:00:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bond007@ciklum.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8885455]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Italy]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[British secret service]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Detective]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Intelligent Automation]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Tommorow never dies ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productEngineeringTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ciklum.testcases.TC003_IndustryWeserveTest@71d15f18]" name="afterMethod" is-config="true" duration-ms="246" started-at="2022-08-27T10:00:57 IST" finished-at="2022-08-27T10:00:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.ciklum.testcases.TC003_IndustryWeserveTest -->
+      <class name="com.ciklum.testcases.TC001_CreateMainMenu">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.ciklum.testcases.TC001_CreateMainMenu@1cab0bfb]" name="startReport" is-config="true" duration-ms="94" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="getDataMenu()[pri:0, instance:com.ciklum.testcases.TC001_CreateMainMenu@1cab0bfb]" name="getDataMenu" is-config="true" duration-ms="0" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataMenu -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.ciklum.testcases.TC001_CreateMainMenu@1cab0bfb]" name="report" is-config="true" duration-ms="5" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ciklum.testcases.TC001_CreateMainMenu@1cab0bfb]" name="beforeMethod" is-config="true" duration-ms="8798" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="menuClickTestcase()[pri:0, instance:com.ciklum.testcases.TC001_CreateMainMenu@1cab0bfb]" name="menuClickTestcase" duration-ms="2307" started-at="2022-08-27T10:00:23 IST" finished-at="2022-08-27T10:00:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuClickTestcase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ciklum.testcases.TC001_CreateMainMenu@1cab0bfb]" name="afterMethod" is-config="true" duration-ms="260" started-at="2022-08-27T10:00:25 IST" finished-at="2022-08-27T10:00:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="stopReport()[pri:0, instance:com.ciklum.testcases.TC001_CreateMainMenu@1cab0bfb]" name="stopReport" is-config="true" duration-ms="306" started-at="2022-08-27T10:00:57 IST" finished-at="2022-08-27T10:00:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.ciklum.testcases.TC001_CreateMainMenu -->
+      <class name="com.ciklum.testcases.TC002_ProductengineeringTest">
+        <test-method status="PASS" signature="getDataProductEngineering()[pri:0, instance:com.ciklum.testcases.TC002_ProductengineeringTest@dbd940d]" name="getDataProductEngineering" is-config="true" duration-ms="0" started-at="2022-08-27T10:00:14 IST" finished-at="2022-08-27T10:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataProductEngineering -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.ciklum.testcases.TC002_ProductengineeringTest@dbd940d]" name="report" is-config="true" duration-ms="0" started-at="2022-08-27T10:00:25 IST" finished-at="2022-08-27T10:00:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ciklum.testcases.TC002_ProductengineeringTest@dbd940d]" name="beforeMethod" is-config="true" duration-ms="3934" started-at="2022-08-27T10:00:25 IST" finished-at="2022-08-27T10:00:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="productEngineeringTest()[pri:0, instance:com.ciklum.testcases.TC002_ProductengineeringTest@dbd940d]" name="productEngineeringTest" duration-ms="12136" started-at="2022-08-27T10:00:29 IST" finished-at="2022-08-27T10:00:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productEngineeringTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ciklum.testcases.TC002_ProductengineeringTest@dbd940d]" name="afterMethod" is-config="true" duration-ms="244" started-at="2022-08-27T10:00:41 IST" finished-at="2022-08-27T10:00:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.ciklum.testcases.TC002_ProductengineeringTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

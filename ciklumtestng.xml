@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.ciklum.testcases.TC001_CreateMainMenu"/>
+       <class name="com.ciklum.testcases.TC002_ProductengineeringTest"/>
+        <class name="com.ciklum.testcases.TC003_IndustryWeserveTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
